@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--franklin--sergiucoman.hlx.page/
-- Live: https://main--franklin--sergiucoman.hlx.live/
+- Preview: [https://main--franklin--sergiucoman.hlx.page/](https://main--franklin--sergiucoman.hlx.page/)
+- Live: [https://main--franklin--sergiucoman.hlx.live/](https://main--franklin--sergiucoman.hlx.live/)
 
 ## Installation
 
